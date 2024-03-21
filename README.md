@@ -1,2 +1,0 @@
-# omatsivut
-Omat kotisivut
