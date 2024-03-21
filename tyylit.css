@@ -1,0 +1,23 @@
+body {
+    background-color:burlywood ;
+}
+h1 {
+    color: aquamarine;
+    font-family: 40px;
+}
+p {
+    color:black ;
+}
+.punainen {
+    color: red;
+}
+li {
+    color: crimson;
+}
+[target="_blank"] {
+    color: lime;
+    text-decoration: none;
+}
+[class~="iso"] {
+    text-decoration: underline;
+}
